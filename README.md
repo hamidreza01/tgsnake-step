@@ -1,3 +1,8 @@
+# The new version of this module is ready  
+
+## **[Go to the new version](https://GitHub.com/tgSnake/step)**
+
+---
 hello! This is a **plugin** for tgsnake
 
 ## manuals :
